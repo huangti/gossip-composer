@@ -1,11 +1,16 @@
-# AI Skills
+# Editorial Cartoon Illustrator v1.2
 
-Reusable agent skills for creative and analytical workflows.
+Replacement package for the `editorial-cartoon-illustrator/` folder in `huangti/gossip-composer`.
 
-## editorial-cartoon-illustrator
+## Changes from v1.1
+- Replaces “richly detailed” visual instructions with **restrained editorial cartoon** priorities.
+- Reduces crowding, facial detail and ornamental backgrounds; defines two focal groups and a soft 3–6 foreground-character target.
+- Enforces **neutral grayscale**, excluding sepia/warm paper tones.
+- Defines safe outer margins and prevents edge-to-edge subject cropping.
+- Integrates the **exactly one centered caption** into the same uninterrupted 4:3 page.
+- Adds `references/comparison-notes.md` documenting the user's two-image critique.
 
-Converts financial commentary into a refined, monochrome, single-panel editorial-cartoon image-generation prompt using visual irony and everyday-business metaphors.
+## Upload
+Extract the ZIP, then upload the `editorial-cartoon-illustrator` directory's files into the matching GitHub directory, replacing `SKILL.md`, `references/style-guide.md`, and `references/examples.md`, and adding `references/comparison-notes.md`. The root `README.md` is optional and can be retained as release notes.
 
-Entry point: [`editorial-cartoon-illustrator/SKILL.md`](editorial-cartoon-illustrator/SKILL.md).
-
-Use with a compatible agent by adding this skill directory to its skill search path. Image generation is optional and requires a separate image tool.
+No files in GitHub have been modified by preparing this package.

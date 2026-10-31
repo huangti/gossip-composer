@@ -1,24 +1,41 @@
-# Style Guide
+# Style Guide v1.2
 
-## Visual identity
-- Single-panel editorial cartoon, classic literary-magazine sensibility; nuanced, observational and quietly witty.
-- Hand-drawn black ink, confident varied line weights, fine cross-hatching and rich object textures.
-- Restrained layered gray watercolor wash for depth; essentially monochrome, no bright colors.
-- Detailed, believable interior or exterior environment; expressive but restrained fictional people.
-- Balanced **4:3** composition, generous white margins, strong focal hierarchy.
+## Priority order
+1. **One clear visual contradiction** over narrative complexity.
+2. **Compositional breathing room** over filling the frame.
+3. **Caption integrated into one page** over typography added as a footer.
+4. **Economical character drawing** over fine-grained facial and garment detail.
+5. **Strict neutral monochrome** over warm, nostalgic toning.
 
-## Narrative identity
-- Begin with an economic or business contradiction, not a company logo.
-- Prefer inventive everyday metaphors, plausible physical actions, and subtle irony.
-- Show both the apparent success and the hidden vulnerability when appropriate.
-- Small props should reward a second look; they should not create clutter.
-- Visual story should work without captions or explanatory arrows.
+## Composition
+- Overall image aspect ratio **4:3**, including the caption area.
+- Main illustrated area inset with ample margins; suggested side breathing room 6–10%, top 5–8% (flexible, not mechanical crop coordinates).
+- Avoid cropped locomotives, smoke, heads, arms, or major structures touching outer edges.
+- Keep two clear focal groups; maintain readable negative space between them.
+- Draw caption on same continuous paper tone below illustration, separated by a natural pause; avoid framed caption strips, abrupt panel boundaries, and huge empty bars.
+
+## Visual style
+- Neutral black ink, neutral gray wash, white or neutral ivory substrate; no sepia, yellow, brown or warm cast.
+- Clean expressive contours, limited selective cross-hatching; don't hatch every surface.
+- Slightly caricatured, simple and believable faces. Gesture and posture carry emotion; avoid photographic likeness or detailed portraiture.
+- Contextual architecture is suggestive, not an exhibition of rafters, clocks and fixtures.
+- Limited background people and props; each earns its place by contributing to the joke.
+
+## Caption
+- Exactly one short English caption below the illustration, horizontally centered, Caslon-like italic serif, double quotation marks.
+- Reproduce user-supplied caption exactly; otherwise compose one original dry, intelligent line.
+- Caption complements, does not explain, the contradiction. No speech bubbles.
+- Use natural spacing and matching ink/paper; text must look like part of the printed cartoon.
+- Aim for one line, but never shrink to illegibility to force it.
 
 ## Avoid
-- Flat vector art, minimalism, clip art, stock-market clichés, photorealistic rendering.
-- Bright colors, text-heavy diagrams, logos, recognizable public figures.
-- Overly broad claims or visual implications unsupported by the source thesis.
-- Repeating the same metaphor across consecutive posts.
+- Crowded spectacle, unnecessary flag-waving or extra celebrations, densely rendered faces and clothing, ornamental background overload.
+- Warm paper filters, sepia, colored wash, heavy chiaroscuro, photographic textures, flat vector, logos, real public figures, stock-market clichés.
+- Edge-to-edge illustration, clipped objects, separately pasted caption, oversized blank top/bottom bands.
 
-## Quality gate
-Ask: Can a reader identify the central tension in 3–5 seconds? Does a second look reveal a clever supporting detail? Is the scene internally consistent? Would the image still work without any words?
+## Quality checks
+- Can the joke be grasped in 3–5 seconds?
+- Is there an obvious primary focal point and a distinct counterpoint?
+- Are there details that can be removed without losing the thesis? Remove them.
+- Are outer margins open on all sides? Is caption visually part of the page?
+- Is the artwork entirely neutral grayscale?
